@@ -1,3 +1,8 @@
+/**
+ * <h1>SmartTV</h1>
+ * @author Victor Neves
+ * @since 05/07/24
+ */
 public class SmartTV {
 
     boolean ligada;
